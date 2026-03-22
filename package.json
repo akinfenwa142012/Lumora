@@ -1,0 +1,15 @@
+{
+  "name": "lumora",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0"
+  }
+}
